@@ -1,18 +1,26 @@
-# quantum-developer-roadmap
-My learning journey to become a quantum computing expert
-# Quantum Computing Developer Roadmap
+# 🚀 Quantum Computing Developer Roadmap
 
-##  2025 plan
-| 기간 | 목표 | 세부 계획 | 상태 |
-|------|------|----------|------|
-| 8월 | 파이썬 기초 습득 | - Python 기초 문법 (print, if, for) <br> - 자료형, 함수 배우기 | ☐ |
-| 9월 | 영어 기술 읽기 훈련 | - 하루 1개 기술 블로그 영어로 읽기 <br> - 모르는 단어 정리 | ☐ |
-| 10월~12월 | Qiskit 입문 | - IBM Quantum Experience 가입 <br> - 기본 게이트, 양자 회로 실습 | ☐ |
-| 2026년 상반기 | 간단한 양자 알고리즘 구현 | - Grover 알고리즘 <br> - 양자 암호 기초 | ☐ |
+Hello! I am a high school student aspiring to become a **Quantum Computing & Quantum Security Developer**.  
+My long-term goal is to study abroad, work in cutting-edge research, and eventually start my own company to achieve financial independence.
 
 ---
 
-## final goals
-- 20대 중반: 해외 석사 진학 + 인턴 경험
-- 20대 후반: 양자 보안 스타트업 창업
-- 하루 2시간 근무, 연 수익 수억 원 달성
+##  Annual Plan 
+
+| Period | Goal | Details | Status |
+|--------|------|---------|--------|
+| Aug 2025 | Master Python basics | - Basic syntax <br> - Conditionals, loops, functions <br> - Git fundamentals | ☐ |
+| Sep 2025 | Build English tech reading habit | - Read 1 English tech blog daily <br> - Save unfamiliar words to Anki | ☐ |
+| Oct–Dec 2025 | Learn Qiskit basics | - Join IBM Quantum Experience <br> - Practice basic gates & quantum circuits | ☐ |
+
+
+---
+
+## 🎯 Long-Term Goals
+- 2027–2028: Enter a top international university in Computer Science / Quantum Computing  
+- Mid-20s: Complete a Master’s degree + gain internship experience  
+- Late 20s: Launch a quantum security startup  
+- Achieve financial independence
+
+---
+
