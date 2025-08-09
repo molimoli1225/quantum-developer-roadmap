@@ -1,4 +1,4 @@
-# 🚀 Quantum Computing Developer Roadmap
+#  Quantum Computing Developer Roadmap
 
 Hello! I am a high school student aspiring to become a **Quantum Computing & Quantum Security Developer**.  
 My long-term goal is to study abroad, work in cutting-edge research, and eventually start my own company to achieve financial independence.
@@ -16,7 +16,7 @@ My long-term goal is to study abroad, work in cutting-edge research, and eventua
 
 ---
 
-## 🎯 Long-Term Goals
+##  Long-Term Goals
 - 2027–2028: Enter a top international university in Computer Science / Quantum Computing  
 - Mid-20s: Complete a Master’s degree + gain internship experience  
 - Late 20s: Launch a quantum security startup  
