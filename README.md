@@ -2,7 +2,7 @@
 My learning journey to become a quantum computing expert
 # Quantum Computing Developer Roadmap
 
-## 📅 2025 계획
+##  2025 plan
 | 기간 | 목표 | 세부 계획 | 상태 |
 |------|------|----------|------|
 | 8월 | 파이썬 기초 습득 | - Python 기초 문법 (print, if, for) <br> - 자료형, 함수 배우기 | ☐ |
@@ -12,7 +12,7 @@ My learning journey to become a quantum computing expert
 
 ---
 
-## 🎯 최종 목표
+## final goals
 - 20대 중반: 해외 석사 진학 + 인턴 경험
 - 20대 후반: 양자 보안 스타트업 창업
 - 하루 2시간 근무, 연 수익 수억 원 달성
